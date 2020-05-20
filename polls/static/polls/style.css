@@ -1,7 +1,17 @@
-li a {
-  color: green;
+ul {
+  list-style-type: none;
 }
 
-body{
-  background: white url("images/purplebg.jpeg") no-repeat;
+li a {
+  color: white;
+  font-size: 50px;
+}
+
+li {
+  text-align: center;
+}
+
+body {
+  background: white url("images/marveldc.jpg") no-repeat;
+  background-size: 100%;
 }
