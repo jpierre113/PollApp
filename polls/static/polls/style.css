@@ -1,8 +1,17 @@
-li a {
-  color: green;
+ul {
+  list-style-type: none;
 }
 
-body{
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+li {
+  text-align: center;
+}
+
+body {
   background: white url("images/marveldc.jpg") no-repeat;
   background-size: 100%;
 }
