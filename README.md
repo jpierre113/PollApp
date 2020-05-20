@@ -1,2 +1,2 @@
-# PollApp
-Learning Django Framework in making a PollApp
+# Superhero Poll App
+Learning Django Framework by creating a polling application
