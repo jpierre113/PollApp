@@ -3,5 +3,6 @@ li a {
 }
 
 body{
-  background: white url("images/purplebg.jpeg") no-repeat;
+  background: white url("images/marveldc.jpg") no-repeat;
+  background-size: 100%;
 }
